@@ -45,8 +45,8 @@
                 </table>
             </div>
             <div id="right"> 
-                <input type="button" name="cmd" value="Add" id="addButton" onclick="addTask()">
-                <input type="button" name="cmd" value="Delete" id="delButton" onclick="delTask()">
+                <input type="button" name="cmd" value="AddNewElements" id="addButton" onclick="addTask()">
+                <input type="button" name="cmd" value="DeleteNewElements" id="delButton" onclick="delTask()">
                 <br/>
                 <br/>
                 Description: <input type="text" name="description" id="desc">
